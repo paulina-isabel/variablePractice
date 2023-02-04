@@ -1,3 +1,5 @@
 # Variable Practice 
 
-data types 
+var songName = "TentpoleShangrila"
+var songName = "JustAlongForTheRide"
+var songName = "Chateau(FeelAlright)"

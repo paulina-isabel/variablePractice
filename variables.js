@@ -1,0 +1,3 @@
+# Variable Practice 
+
+data types 

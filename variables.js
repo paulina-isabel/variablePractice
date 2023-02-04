@@ -1,13 +1,20 @@
-# Variable Practice 
-
-var songName = "TentpoleShangrila"
-var songName = "JustAlongForTheRide"
-var songName = "Chateau(FeelAlright)"
+var songName = "Tentpole Shangrila"
+var playlist = "Just Along For The Ride"
+var artist = "Kanye West"
 
 var songLength = 3.36
-var songLength = 3.21
-var songLength = 4.32
+var albumCount = 3
+var songCount = 4
 
+var onTour = true
 var addedToPlaylist = true
-var addedToPlaylist = true
-var addedToPlaylist = false
+var concertAttended = false
+
+songName = "Mortal Projections"
+playlist = "On Sight"
+artist = "Jay Z"
+
+console.log(songName)
+console.log(songLength)
+console.log(addedToPlaylist)
+
